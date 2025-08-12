@@ -3,10 +3,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-brightgreen?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-Backend-blue?logo=express&logoColor=white)
 ![Azure DevOps Pipelines](https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-blueviolet?logo=azuredevops&logoColor=white)
-![MIT License](https://img.shields.io/github/license/Sriharsha9436/NodeJs-Web-App-CI-CD-Demo?color=yellow)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
-![Issues](https://img.shields.io/github/issues/Sriharsha9436/NodeJs-Web-App-CI-CD-Demo?color=orange)
-![Last Commit](https://img.shields.io/github/last-commit/Sriharsha9436/NodeJs-Web-App-CI-CD-Demo?color=blueviolet)
 
 ---
 
@@ -97,7 +94,7 @@ Every push is a celebration! 🎉 Modifying the codebase launches an intelligent
 
 ## 🪪 License
 
-Distributed under the MIT License.
+Distributed under the MIT License LICENSE.
 
 ---
 

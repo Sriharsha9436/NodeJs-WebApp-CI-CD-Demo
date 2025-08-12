@@ -94,7 +94,7 @@ Every push is a celebration! 🎉 Modifying the codebase launches an intelligent
 
 ## 🪪 License
 
-Distributed under the MIT License LICENSE.
+Distributed under the MIT License LICENSE
 
 ---
 

@@ -92,9 +92,9 @@ Every push is a celebration! 🎉 Modifying the codebase launches an intelligent
 
 ---
 
-## 🪪 License
+## 📄 License
 
-Distributed under the MIT License LICENSE
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
 
 ---
 
